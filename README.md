@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Yorgos!</h1>
-<h3 align="center">Fullstack Node.js/TypeScript/React developer</h3>
+<h3 align="center">Fullstack Node.js/TypeScript/React developer from Greece</h3>
+
+<p align="center"><a href="mailto:gstagas@gmail.com">Currently available for work/hire</a></p>
 
 <p align="center">
 
