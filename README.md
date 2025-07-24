@@ -1,5 +1,5 @@
-<h1 align="center">stagas</h1>
-<h3 align="center">fullstack Node.js/TypeScript/React developer</h3>
+<h1 align="center">Hi, I'm Yorgos!</h1>
+<h3 align="center">Fullstack Node.js/TypeScript/React developer</h3>
 
 <p align="center">
 
